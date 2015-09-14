@@ -1,4 +1,15 @@
 <div class="container-fluid main-container">
+
+  <div class="form-inline">
+    <div class="form-group">
+      <input type="text" class="form-control" ng-model="lesson.title" value="lesson.title" placeholder="Name" />
+      <button class="btn btn-primary" ng-click="publish()">Publish</button>
+      <button class="btn btn-success" ng-click="save()">Save</button>
+      <button class="btn btn-warning" ng-click="discard()">Discard</button>
+      <button class="btn btn-danger" ng-click="delete()">Delete</button>
+    </div>
+  </div>
+
   <div class="editor-container" ng-include="'client/views/lesson/_editor.ng.html'">
     
   </div>

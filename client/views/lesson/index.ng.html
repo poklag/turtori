@@ -1,0 +1,14 @@
+<div class="container main-container">
+  <div>
+    <div>
+      <button class="btn btn-success" ng-click="new()">+New lesson</button>
+
+
+      <meteor-include src="loginButtons"></meteor-include>
+    </div>
+
+    <div ng-repeat="lesson in lessons">
+      <a ng-href="/lesson/{{ lesson._id }}/edit">{{  lesson.title }}</a>
+    </div>
+  </div>
+</div>
