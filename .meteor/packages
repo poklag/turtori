@@ -5,15 +5,18 @@
 # but you can also edit it by hand.
 
 meteor-platform
-autopublish
-insecure
-fourseven:scss
 angular
-accounts-password
-accounts-ui
-accounts-facebook
+angular:angular-animate
 angular:angular-route
+
+percolate:migrations
+
+accounts-password
+accounts-facebook
+accounts-ui
 twbs:bootstrap
+
+fourseven:scss
 fastclick
 juliancwirko:s-alert-flip
-angular:angular-animate
+urigo:angular-blaze-template
