@@ -1,0 +1,8 @@
+Timeline:
+  - Proof of concept -- Fri 18
+    - Basic functions of Animating Engine
+    - Integration of ASCI Math
+  - Alpha version and turor invitation -- Fri 2
+    - Signin/Facebook integration
+    - Learner management
+    - Course management

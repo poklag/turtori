@@ -1,0 +1,1239 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"rgb",
+				"rgbStr"
+			],
+			[
+				"new",
+				"newValue"
+			],
+			[
+				"selected",
+				"selectedIndex"
+			],
+			[
+				"border-b",
+				"border-bottom-color"
+			],
+			[
+				"trans",
+				"transform"
+			],
+			[
+				"webkit-tra",
+				"webkit-transition"
+			],
+			[
+				"medi",
+				"media_tablet_and_bigger"
+			],
+			[
+				"window",
+				"windowScroll"
+			],
+			[
+				"consol",
+				"console_text"
+			],
+			[
+				"fons",
+				"font-size"
+			],
+			[
+				"defau",
+				"defaultSpacing"
+			],
+			[
+				"can_",
+				"can_buy"
+			],
+			[
+				"show",
+				"showLoading"
+			],
+			[
+				"user",
+				"selectedUserId"
+			],
+			[
+				"sele",
+				"selectedUserId"
+			],
+			[
+				"selec",
+				"SelectPlayerCtrl"
+			],
+			[
+				"se",
+				"setSelectedUser"
+			],
+			[
+				"current",
+				"current"
+			],
+			[
+				"fla",
+				"flashClass"
+			],
+			[
+				"tran",
+				"transferItems"
+			],
+			[
+				"list",
+				"listHoverColorCss"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "client/views/lesson/_editor.ng.html",
+			"settings":
+			{
+				"buffer_size": 398,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "client/controllers/lesson/frame_editor.js",
+			"settings":
+			{
+				"buffer_size": 127,
+				"line_ending": "Unix",
+				"name": "_app.controller('Lesson/FrameEditor', ["
+			}
+		},
+		{
+			"file": "client/views/lesson/edit.ng.html",
+			"settings":
+			{
+				"buffer_size": 149,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "client/controllers/lesson/edit.js",
+			"settings":
+			{
+				"buffer_size": 184,
+				"line_ending": "Unix",
+				"name": "_app.controller('LessonEdit', )"
+			}
+		},
+		{
+			"file": "client/css/editor.css",
+			"settings":
+			{
+				"buffer_size": 126,
+				"line_ending": "Unix",
+				"name": ".editor{"
+			}
+		},
+		{
+			"file": "client/templates/main_navbar.ng.html",
+			"settings":
+			{
+				"buffer_size": 2516,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 81.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/F/projects/turtori",
+		"/F/projects/turtori/client",
+		"/F/projects/turtori/client/controllers",
+		"/F/projects/turtori/client/css",
+		"/F/projects/turtori/client/lib",
+		"/F/projects/turtori/client/templates",
+		"/F/projects/turtori/client/views",
+		"/F/projects/turtori/client/views/home",
+		"/F/projects/turtori/server"
+	],
+	"file_history":
+	[
+		"/F/projects/turtori/client/main-app-config.js",
+		"/F/projects/turtori/collections/lessons.js",
+		"/F/projects/molly/global.js",
+		"/F/projects/turtori/public/css/lumen-theme.min.css",
+		"/F/projects/turtori/client/main.html",
+		"/F/projects/turtori/client/views/lesson/editor.ng.html",
+		"/F/projects/turtori/client/views/editor.ng.html",
+		"/F/projects/turtori/server/lession_structure.js",
+		"/F/projects/turtori/client/templates/main_navbar.ng.html",
+		"/F/projects/turtori/client/css/main.css",
+		"/F/projects/turtori/client/controllers/home.js",
+		"/F/projects/turtori/client/views/home/_slider.ng.html",
+		"/F/projects/turtori/client/views/home/home.ng.html",
+		"/F/projects/turtori/client/lib/_modules.js",
+		"/F/projects/turtori/note.txt",
+		"/F/projects/turtori/public/css/theme.min.css",
+		"/F/projects/turtori/.meteor/packages",
+		"/F/projects/molly/client/views/my_account.ng.html",
+		"/F/projects/turtori/client/controllers/main.js",
+		"/F/projects/turtori/client/_modules.js",
+		"/F/projects/molly/.meteor/packages",
+		"/F/projects/molly/client/main.html",
+		"/F/projects/molly/lib/_app.js",
+		"/F/projects/molly/client/main-app-config.js",
+		"/F/projects/turtori/client/_app.js",
+		"/F/projects/turtori/client/main.js",
+		"/F/projects/molly/client/templates/main_navbar.ng.html",
+		"/F/projects/turtori/public/js/fastclick.js",
+		"/F/projects/turtori/public/css/normalize.min.css",
+		"/F/projects/turtori/public/js/vendor/modernizr-2.8.3-respond-1.4.2.min.js",
+		"/F/projects/turtori/.gitignore",
+		"/F/projects/turtori/tt/tt.js",
+		"/F/projects/tiloja-4/config/initializers/wicked_pdf.rb",
+		"/F/projects/tiloja-4/Gemfile",
+		"/F/projects/tiloja-4/config/environments/development.rb",
+		"/F/projects/tiloja-iframe/components/premises_api/app/helpers/premises_api/application_helper.rb",
+		"/F/projects/tiloja-iframe/config/application.rb",
+		"/F/projects/tiloja-iframe/app/views/partials/_single_premise.html.erb",
+		"/F/projects/tiloja-iframe/app/assets/javascripts/angular/ng_tiloja_app_directives.js",
+		"/F/projects/tiloja-iframe/app/assets/javascripts/angular/ng_tiloja_app.js",
+		"/F/projects/tiloja-iframe/app/views/templates/target_modal_window.html.erb",
+		"/F/projects/tiloja-iframe/app/views/layouts/iframe.html.erb",
+		"/F/projects/tiloja-iframe/app/views/refinery/_head_iframe.html.erb",
+		"/F/projects/tiloja-iframe/app/assets/javascripts/angular/controllers/ng_tiloja_app_target_modal_controller.js",
+		"/F/projects/tiloja-iframe/app/assets/javascripts/angular/controllers/ng_tiloja_app_premise_search_controller.js",
+		"/F/projects/tiloja-iframe/app/views/templates/target_modal.html.erb",
+		"/F/projects/tiloja-iframe/app/assets/stylesheets/vendor_extensions/bootstrap_button.scss",
+		"/F/projects/tiloja-iframe/app/assets/stylesheets/utils/mixins.scss",
+		"/F/projects/tiloja-iframe/app/assets/javascripts/angular/services/iframe.js",
+		"/F/projects/tiloja-iframe/app/assets/javascripts/angular/ng_tiloja_app_services.js",
+		"/F/projects/tiloja-iframe/app/assets/javascripts/loader.js",
+		"/F/projects/tiloja-iframe/config/environments/development.rb",
+		"/F/projects/tiloja-iframe/app/assets/javascripts/application.js",
+		"/F/projects/tiloja-iframe/config/environments/staging.rb",
+		"/F/projects/tiloja-iframe/app/assets/stylesheets/application.css",
+		"/F/projects/tiloja-iframe/app/assets/stylesheets/main-iframe.scss",
+		"/F/projects/tiloja-iframe/app/assets/stylesheets/base/helper_classes.scss",
+		"/F/projects/tiloja-iframe/public/demo.html",
+		"/F/projects/tiloja-iframe/config/environments/production.rb",
+		"/F/projects/tiloja-iframe/config/initializers/assets.rb",
+		"/F/projects/tiloja-iframe/components/premises_api/test/dummy/config/application.rb",
+		"/F/projects/tiloja-iframe/public/assets/application-35a2e8e6a7be11936a4e595c4379036d.js",
+		"/F/projects/tiloja-iframe/public/assets/premises_api/application-2f27056ec4978b09b1e5836adbb133ce.js",
+		"/C/Users/Poklag/AppData/Local/Temp/Rar$DIa0.315/application-35a2e8e6a7be11936a4e595c4379036d.js",
+		"/F/projects/tiloja-iframe/public/assets/refinery/application-a605513e2b3ebcd0d20a883a9d4dc663.js",
+		"/F/projects/tiloja-iframe/app/assets/stylesheets/base/grid.scss",
+		"/F/projects/tiloja-iframe/public/assets/admin-32de0d39730c13fa0183a24e8fbeea78.js",
+		"/F/projects/tiloja-iframe/Gemfile",
+		"/F/projects/tiloja-iframe/Gemfile.lock",
+		"/F/projects/tiloja-iframe/public/assets/loader-4045764a1c4e7727193410b79a3efd24.js",
+		"/F/projects/tiloja-iframe/config/mongoid.yml",
+		"/C/Users/Poklag/Desktop/CPU-20150910T114002.cpuprofile",
+		"/F/projects/tiloja-iframe/config/deploy/development.rb",
+		"/F/projects/molly/server/main.js",
+		"/F/projects/molly/m.bat",
+		"/F/projects/tiloja-iframe/app/assets/javascripts/angular/ng_tiloja_app_config.js",
+		"/F/projects/tiloja-iframe/app/assets/javascripts/angular/ng_tiloja_app_data_loaders.js",
+		"/F/projects/tiloja-iframe/app/assets/stylesheets/vendor_extensions/bootstrap_modal_dialog.scss",
+		"/F/projects/tiloja-iframe/app/assets/stylesheets/utils/animations.scss",
+		"/F/projects/tiloja-iframe/app/views/partials/_premise_list.html.erb",
+		"/F/projects/tiloja-iframe/app/views/partials/_single_property.html.erb",
+		"/F/projects/molly/cards.txt",
+		"/F/projects/molly/molly.js",
+		"/F/projects/molly/card2.js",
+		"/F/projects/tiloja-iframe/readme_setup.txt",
+		"/F/Kerbal Space Program/settings.cfg",
+		"/F/Kerbal Space Program/GameData/launch.cfg",
+		"/F/Kerbal Space Program/GameData/RKE_Joystick.cfg",
+		"/F/Kerbal Space Program/GameData/64k/Compatability/HeatShieldTweak.cfg",
+		"/F/Kerbal Space Program/GameData/64k/Compatability/HeatTweak.cfg",
+		"/F/Kerbal Space Program/GameData/BoulderCo/Clouds/cloudLayers-BetterAtmospheres.cfg",
+		"/F/projects/molly/client/controllers/main.js",
+		"/F/projects/molly/client/controllers/select_player.js",
+		"/F/projects/molly/client/controllers/my_account.js",
+		"/F/projects/molly/client/main.css",
+		"/F/projects/molly/client/controllers/bank_manager.js",
+		"/F/Kerbal Space Program/saves/ESA/persistent.sfs",
+		"/F/Kerbal Space Program/GameData/Squad/Parts/Aero/HeatShield/HeatShield1.cfg",
+		"/F/projects/molly/client/molly.css",
+		"/F/projects/molly/client/services/utilities.js",
+		"/F/projects/molly/client/directives/select_player.js",
+		"/F/projects/molly/client/main-app.js",
+		"/F/projects/molly/client/controllers/select_playerjs",
+		"/F/projects/molly/client/views/select_player.ng.html",
+		"/F/projects/molly/client/controllers/select_user.js",
+		"/F/projects/molly/client/views/bank_manager.ng.html",
+		"/F/projects/molly/client/views/transfer_selector.ng.html",
+		"/F/projects/molly/client/directives/flash.js",
+		"/F/projects/molly/.meteor/local/build/programs/web.browser/app/client/controllers/main.js",
+		"/F/projects/molly/client/controllers/keypad.js",
+		"/F/Kerbal Space Program/GameData/RftS/RftSEngines.cfg",
+		"/C/Users/Poklag/AppData/Local/Temp/Rar$DIa0.280/RO_RealFuels.cfg",
+		"/C/Users/Poklag/AppData/Local/Temp/Rar$DIa0.114/RO_DeadlyReEntry.cfg",
+		"/C/Users/Poklag/AppData/Local/Temp/Rar$DIa0.293/RO_RealFuels_Engines.cfg",
+		"/C/Users/Poklag/AppData/Local/Temp/Rar$DIa0.960/RO_AIES_Engine.cfg",
+		"/C/Users/Poklag/AppData/Local/Temp/Rar$DIa0.306/RO_RealFuels.cfg",
+		"/C/Users/Poklag/AppData/Local/Temp/Rar$DIa0.234/RftSEngines.cfg",
+		"/F/Kerbal Space Program/GameData/RftS/PartHider.cfg",
+		"/C/Users/Poklag/AppData/Local/Temp/Rar$DIa0.337/RftSEngines.cfg",
+		"/F/Kerbal Space Program/GameData/RealFuels/SpaceShuttleEngines_modularFuelTanks.cfg",
+		"/F/Kerbal Space Program/GameData/RealPlume/GlobalSettings.cfg",
+		"/F/Kerbal Space Program/GameData/RealPlume-Stock/Squad/engineLargeSkipper.cfg",
+		"/F/Kerbal Space Program/GameData/RFStockalike/b9.cfg",
+		"/F/Kerbal Space Program/GameData/64k/64K.version",
+		"/F/projects/molly/.meteor/local/build/programs/server/package.json",
+		"/C/Users/Poklag/Desktop/New folder/index.html",
+		"/F/projects/molly/client/templates/game.html",
+		"/F/projects/molly/client/templates/create_game.html"
+	],
+	"find":
+	{
+		"height": 43.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"lessons",
+			"font",
+			"home",
+			"  \n",
+			"1024",
+			"$scope",
+			"350x150",
+			"http://lorempixel.com/1024/860/",
+			"400",
+			"768",
+			"400",
+			"http://lorempixel.com/400/200/",
+			"img_chania.jpg",
+			"header",
+			"applicationHelper",
+			"$wat",
+			"GMMap",
+			"GMap",
+			"GM",
+			"replace-missing-image",
+			"track",
+			"carousel2",
+			"imagecarousel",
+			"album",
+			"<#",
+			"forward-size-info-to",
+			"trans",
+			"heith",
+			"resize",
+			"height",
+			"image",
+			"getComputedStyle",
+			"compute",
+			"10",
+			"button_active_color",
+			"5",
+			"focusGlowShadowFade",
+			"active",
+			"btns",
+			"cors",
+			"console.log(",
+			" $window.getComputedStyle(d)",
+			"vendor",
+			"__",
+			"reusa",
+			"curtain",
+			"resu",
+			"imageca2",
+			"imageca",
+			"selectedI",
+			"selectedPremiseIndex",
+			"$scope",
+			"$window",
+			"window",
+			"selectedPremiseIndex",
+			"fastNav",
+			"selectedIndex",
+			"fastNavigate",
+			"debug",
+			"compile",
+			"ugli",
+			"mini",
+			"<%",
+			"compile",
+			".assets.compress",
+			"compress",
+			"ugli",
+			"sass",
+			".$watch",
+			"$watch",
+			"fastNavigate",
+			"$scope",
+			"previousBalance",
+			"#/",
+			"      \n",
+			"glyphicons",
+			"32",
+			"prof",
+			"class=\"profile-picture\" ",
+			"\n      ...",
+			"navbar-nav",
+			"data-toggle=\"collapse\" data-target=\"#main-menu\" ",
+			" data-toggle=\"collapse\" data-target=\"#main-menu\"",
+			"console.log",
+			"map",
+			"run",
+			"console.log",
+			"fastNa",
+			"premise",
+			"$location",
+			"$location.path()",
+			"currentPath",
+			"selectedPre",
+			",0,0",
+			"translate3d",
+			"scale(#{$imageCarouselAlbumScale})",
+			"multi_premise_panel__nav",
+			"singlePremiseUrlTemplate",
+			"updateCurrentItems",
+			"transitionD",
+			"transitionDuration",
+			"400",
+			"height",
+			"$imageCarouselAnimDuration",
+			"animate",
+			"all",
+			"animation",
+			"curtain",
+			"Curtain",
+			"curtain",
+			"Curtain",
+			"curtain",
+			"Curtain",
+			"curtain",
+			"Curtain",
+			"curtain",
+			"all",
+			"will-change",
+			"@include vendor('will-change',transform);",
+			"scale(#{$imageCarouselAlbumScale})",
+			"--offset_forward",
+			"transclude",
+			"getItemContent",
+			"get-content",
+			"getContent",
+			"animation",
+			"updateCurrentItems",
+			"SelectedIndex"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "client/views/lesson/_editor.ng.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 398,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								398,
+								398
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "client/controllers/lesson/frame_editor.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 127,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								127,
+								127
+							]
+						],
+						"settings":
+						{
+							"auto_name": "_app.controller('Lesson/FrameEditor', [",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "client/views/lesson/edit.ng.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 149,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								149,
+								149
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "client/controllers/lesson/edit.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 184,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								76,
+								76
+							]
+						],
+						"settings":
+						{
+							"auto_name": "_app.controller('LessonEdit', )",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "client/css/editor.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 126,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								126,
+								126
+							]
+						],
+						"settings":
+						{
+							"auto_name": ".editor{",
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "client/templates/main_navbar.ng.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2516,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								566,
+								566
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "project.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"theme",
+				"public\\css\\lumen-theme.min.css"
+			],
+			[
+				"edit",
+				"client\\views\\lesson\\edit.ng.html"
+			],
+			[
+				"mainc",
+				"client\\main-app-config.js"
+			],
+			[
+				"main",
+				"client\\templates\\main_navbar.ng.html"
+			],
+			[
+				"acka",
+				".meteor\\packages"
+			],
+			[
+				"packe",
+				".meteor\\packages"
+			],
+			[
+				"app",
+				"client\\_app.js"
+			],
+			[
+				"main.",
+				"client\\main.js"
+			],
+			[
+				"_",
+				"client\\_app_config.js"
+			],
+			[
+				"giti",
+				".gitignore"
+			],
+			[
+				"print_header",
+				"app\\views\\premises\\print_header.pdf.erb"
+			],
+			[
+				"wick",
+				"config\\initializers\\wicked_pdf.rb"
+			],
+			[
+				"gemfil",
+				"Gemfile"
+			],
+			[
+				"develop",
+				"config\\environments\\development.rb"
+			],
+			[
+				"singlepremise",
+				"app\\views\\partials\\_single_premise.html.erb"
+			],
+			[
+				"routes",
+				"config\\routes.rb"
+			],
+			[
+				"show",
+				"app\\views\\premises\\show.pdf.erb"
+			],
+			[
+				"premisecontroller",
+				"app\\controllers\\premises_controller.rb"
+			],
+			[
+				"applicahelper",
+				"app\\helpers\\application_helper.rb"
+			],
+			[
+				"applicationhelper",
+				"app\\helpers\\application_helper.rb"
+			],
+			[
+				"application",
+				"config\\application.rb"
+			],
+			[
+				"direc",
+				"app\\assets\\javascripts\\angular\\ng_tiloja_app_directives.js"
+			],
+			[
+				"targetmo",
+				"app\\views\\templates\\target_modal_window.html.erb"
+			],
+			[
+				"headifra",
+				"app\\views\\refinery\\_head_iframe.html.erb"
+			],
+			[
+				"layoutifram",
+				"app\\views\\layouts\\iframe.html.erb"
+			],
+			[
+				"ng_tiloja",
+				"app\\assets\\javascripts\\angular\\ng_tiloja_app.js"
+			],
+			[
+				"targetmodal",
+				"app\\assets\\javascripts\\angular\\controllers\\ng_tiloja_app_target_modal_controller.js"
+			],
+			[
+				"_single",
+				"app\\views\\partials\\_single_premise.html.erb"
+			],
+			[
+				"mixin",
+				"app\\assets\\stylesheets\\utils\\mixins.scss"
+			],
+			[
+				"ifram",
+				"app\\assets\\javascripts\\angular\\services\\iframe.js"
+			],
+			[
+				"bootstrap",
+				"app\\assets\\stylesheets\\vendor_extensions\\bootstrap_button.scss"
+			],
+			[
+				"head",
+				"app\\views\\refinery\\_head_iframe.html.erb"
+			],
+			[
+				"layout",
+				"app\\views\\layouts\\iframe.html.erb"
+			],
+			[
+				"applicaio",
+				"app\\assets\\javascripts\\application.js"
+			],
+			[
+				"ng_tiloa",
+				"app\\assets\\javascripts\\angular\\ng_tiloja_app.js"
+			],
+			[
+				"ngapp",
+				"app\\assets\\javascripts\\angular\\ng_tiloja_app.js"
+			],
+			[
+				"develope",
+				"config\\environments\\development.rb"
+			],
+			[
+				"target",
+				"app\\views\\templates\\target_modal.html.erb"
+			],
+			[
+				"pro",
+				"config\\environments\\production.rb"
+			],
+			[
+				"ass",
+				"config\\initializers\\assets.rb"
+			],
+			[
+				"demo",
+				"public\\demo.html"
+			],
+			[
+				"prod",
+				"config\\environments\\production.rb"
+			],
+			[
+				"grid",
+				"app\\assets\\stylesheets\\base\\grid.scss"
+			],
+			[
+				"main-i",
+				"app\\assets\\stylesheets\\main-iframe.scss"
+			],
+			[
+				"application.css",
+				"app\\assets\\stylesheets\\application.css"
+			],
+			[
+				"helper",
+				"app\\assets\\stylesheets\\base\\helper_classes.scss"
+			],
+			[
+				"grid.css",
+				"app\\assets\\stylesheets\\base\\grid.scss"
+			],
+			[
+				"gemil",
+				"Gemfile.lock"
+			],
+			[
+				"loader",
+				"app\\assets\\javascripts\\loader.js"
+			],
+			[
+				"assets",
+				"config\\initializers\\assets.rb"
+			],
+			[
+				"stag",
+				"config\\environments\\staging.rb"
+			],
+			[
+				"mongo",
+				"config\\mongoid.yml"
+			],
+			[
+				"produc",
+				"config\\environments\\production.rb"
+			],
+			[
+				"staging",
+				"config\\environments\\staging.rb"
+			],
+			[
+				"development",
+				"config\\environments\\development.rb"
+			],
+			[
+				"ifram.html",
+				"app\\views\\layouts\\iframe.html.erb"
+			],
+			[
+				"iframe",
+				"app\\assets\\javascripts\\angular\\services\\iframe.js"
+			],
+			[
+				"ng_app",
+				"app\\assets\\javascripts\\angular\\ng_tiloja_app.js"
+			],
+			[
+				"service",
+				"app\\assets\\javascripts\\angular\\ng_tiloja_app_services.js"
+			],
+			[
+				"my_a",
+				"client\\controllers\\my_account.js"
+			],
+			[
+				"css",
+				"client\\main.css"
+			],
+			[
+				"single_premise",
+				"app\\views\\partials\\_single_premise.html.erb"
+			],
+			[
+				"ng_config",
+				"app\\assets\\javascripts\\angular\\ng_tiloja_app_config.js"
+			],
+			[
+				"layouti",
+				"app\\views\\layouts\\iframe.html.erb"
+			],
+			[
+				"targetm",
+				"app\\views\\templates\\target_modal.html.erb"
+			],
+			[
+				"animation",
+				"app\\assets\\stylesheets\\utils\\animations.scss"
+			],
+			[
+				"ng_tilojaa",
+				"app\\assets\\javascripts\\angular\\ng_tiloja_app.js"
+			],
+			[
+				"layoutifra",
+				"app\\views\\layouts\\iframe.html.erb"
+			],
+			[
+				"premise_list",
+				"app\\views\\partials\\_premise_list.html.erb"
+			],
+			[
+				"directi",
+				"app\\assets\\javascripts\\angular\\ng_tiloja_app_directives.js"
+			],
+			[
+				"ngtilojapremis",
+				"app\\assets\\javascripts\\angular\\controllers\\ng_tiloja_app_premise_search_controller.js"
+			],
+			[
+				"ifrma",
+				"app\\assets\\javascripts\\angular\\controllers\\iframe_layout.js"
+			],
+			[
+				"button",
+				"app\\assets\\stylesheets\\vendor_extensions\\bootstrap_button.scss"
+			],
+			[
+				"head_",
+				"app\\views\\refinery\\_head_iframe.html.erb"
+			],
+			[
+				"hea",
+				"app\\views\\refinery\\_head_iframe.html.erb"
+			],
+			[
+				"ng_",
+				"app\\assets\\javascripts\\angular\\ng_tiloja_app_config.js"
+			],
+			[
+				"card",
+				"cards.txt"
+			],
+			[
+				"read",
+				"readme_setup.txt"
+			],
+			[
+				"iframescss",
+				"app\\assets\\stylesheets\\main-iframe.scss"
+			],
+			[
+				"head_ifra",
+				"app\\views\\refinery\\_head_iframe.html.erb"
+			],
+			[
+				"iframeh",
+				"app\\views\\layouts\\iframe.html.erb"
+			],
+			[
+				"demo.",
+				"public\\demo.html"
+			],
+			[
+				"load",
+				"app\\assets\\javascripts\\loader.js"
+			],
+			[
+				"modal_",
+				"app\\views\\shared\\_modal_dialog.html.erb"
+			],
+			[
+				"index",
+				"app\\views\\companies\\index.html.erb"
+			],
+			[
+				"secur",
+				"config\\initializers\\secure_headers.rb"
+			],
+			[
+				"applicaion.html",
+				"app\\views\\layouts\\application.html.erb"
+			],
+			[
+				"coor",
+				"app\\views\\modal_dialog\\pick_coordinate.js.erb"
+			],
+			[
+				"picker",
+				"app\\views\\modal_dialog\\_coordinate_picker.html.erb"
+			],
+			[
+				"devise",
+				"app\\views\\layouts\\devise.html.erb"
+			],
+			[
+				"seed",
+				"db\\seeds.rb"
+			],
+			[
+				"readme",
+				"README.md"
+			],
+			[
+				"data",
+				"config\\database.yml"
+			],
+			[
+				"key",
+				"client\\views\\keypad.ng.html"
+			],
+			[
+				"main_",
+				"client\\templates\\main_navbar.ng.html"
+			],
+			[
+				"molly.",
+				"client\\molly.css"
+			],
+			[
+				"bank",
+				"client\\views\\bank_manager.ng.html"
+			],
+			[
+				"mainnav",
+				"client\\templates\\main_navbar.ng.html"
+			],
+			[
+				"moll",
+				"molly.js"
+			],
+			[
+				"pack",
+				".meteor\\local\\build\\programs\\server\\package.json"
+			],
+			[
+				"applica",
+				"app\\assets\\stylesheets\\application.css"
+			],
+			[
+				"anima",
+				"app\\assets\\stylesheets\\utils\\animations.scss"
+			],
+			[
+				"iframela",
+				"app\\assets\\javascripts\\angular\\controllers\\iframe_layout.js"
+			],
+			[
+				"ifrmalay",
+				"app\\assets\\javascripts\\angular\\controllers\\iframe_layout.js"
+			],
+			[
+				"targetmodalcontroller",
+				"app\\assets\\javascripts\\angular\\controllers\\ng_tiloja_app_target_modal_controller.js"
+			],
+			[
+				"singlep",
+				"app\\assets\\stylesheets\\dialogs\\single_premise.scss"
+			],
+			[
+				"varia",
+				"app\\assets\\stylesheets\\utils\\variables.scss"
+			],
+			[
+				"image_carousel_controls",
+				"app\\assets\\stylesheets\\components\\image_carousel_controls.scss"
+			],
+			[
+				"ifrmae",
+				"app\\assets\\javascripts\\angular\\services\\iframe.js"
+			],
+			[
+				"rea",
+				"readme_setup.txt"
+			],
+			[
+				"premiselis",
+				"app\\assets\\stylesheets\\components\\iframe_premise_list.scss"
+			],
+			[
+				"typo",
+				"app\\assets\\stylesheets\\base\\typography_iframe.scss"
+			],
+			[
+				"fi",
+				"config\\locales\\fi.yml"
+			],
+			[
+				"premiselist",
+				"app\\views\\templates\\premise_list_modal.html.erb"
+			],
+			[
+				"single",
+				"app\\assets\\stylesheets\\dialogs\\single_premise_iframe.scss"
+			],
+			[
+				"en",
+				"config\\locales\\en.yml"
+			],
+			[
+				"targetcontroller",
+				"app\\assets\\javascripts\\angular\\controllers\\ng_tiloja_app_target_modal_controller.js"
+			],
+			[
+				"modal",
+				"app\\assets\\stylesheets\\layout\\modal_section.scss"
+			],
+			[
+				"zoom",
+				"app\\assets\\stylesheets\\components\\zoom_modal_2.scss"
+			],
+			[
+				"multip",
+				"app\\assets\\stylesheets\\components\\multi_premise_panel.scss"
+			],
+			[
+				"vari",
+				"app\\assets\\stylesheets\\utils\\variables.scss"
+			],
+			[
+				"thumbna",
+				"app\\assets\\stylesheets\\components\\thumbnail_image.scss"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 256.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
