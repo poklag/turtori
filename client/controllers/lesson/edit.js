@@ -11,7 +11,7 @@ _app.controller('Lesson/Edit', [
     scope.lesson = meteor.object(Lessons, params.id, false);
 
     scope.save = function(){
-      
+      scope.lesson.save();
     }
 
     scope.delete = function(){
@@ -28,8 +28,12 @@ _app.controller('Lesson/Edit', [
             console.log(error);
           }
         });
-
       }
+    };
+
+    scope.publish = function(isPublish){
+      scope.lesson.publish = isPublish || true;
+      scope.save();
     };
 
     scope.discard = function(){

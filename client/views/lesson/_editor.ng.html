@@ -1,9 +1,17 @@
-<div class="editor">
+<div class="editor" ng-controller="Lesson/FrameEditor">
   <hr />
 
-  <div class="frame-editor" ng-controller="Lesson/FrameEditor"></div>
+  <div class="frame-editor"></div>
 
   <div class="keyframes">
-    
+    <div class="keyframe" ng-repeat="kf in lesson.keyframes track by $index" ng-click="select_index($index)" ng-class="{ selected: $index === selected_kf_index}">
+      {{ $index }}
+    </div>
+
+    <button class="btn btn-default" ng-click="insert_keyframe()">
+      Add
+    </button>
+
+    <button class="btn btn-primary" ng-click="play_from_current_frame()"></button>
   </div>
 </div>

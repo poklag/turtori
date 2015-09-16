@@ -1,6 +1,7 @@
 {
   title: "",
   created: '',
+  version: 1.0,
   resources: {
     'E34psX': "base64",
     'Rd3410': "Lorem ipsome",
@@ -20,10 +21,13 @@
   annotations: [
   ],
 
-  keyframes: {
-    "0": [
-      { 'E34psX': ['add', 0, 0] },
-      { 'Rd3410': ['add', 255, 255] }
-    ]
-  }
+  keyframes: [
+    {
+      time: 0.000,
+      animations: [
+        { 'E34psX': ['add', 0, 0] },
+        { 'Rd3410': ['add', 255, 255] }
+      ]
+    }
+  ]
 }

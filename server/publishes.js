@@ -1,16 +1,17 @@
 
 Meteor.publish('Lessons', function(userId){
   return Lessons.find({
-    userId: userId
+    owner: userId
   })
 });
 
 
 Meteor.methods({
-  'lessons/new': function(userId){
+  'lessons/create': function(userId){
     return Lessons.insert({
-      userId: userId,
+      owner: userId,
       title: "New lesson",
+      keyframes: [],
       publish: false,
       created: new Date()
     });
