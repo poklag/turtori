@@ -4,15 +4,25 @@ _app.controller('Lesson/FrameEditor', [
 
   function FrameEditorController(scope, params){
 
-    scope.selected_kf_index = 0;
+    scope.selected_kf = null;
 
-    scope.select_index = function(idx){
-      scope.selected_kf_index = idx;
+    scope.select_kf = function(id){
+      scope.selected_kf_id = id;
+    };
+
+    scope.delete = function(id){
+      if(window.confirm('Sure?')){
+          Lessons.update(
+            { _id: scope.lesson._id },
+            { $pull: { "keyframes": { id: id } } }
+          );
+      }
     };
 
     scope.insert_keyframe = function(at){
 
       scope.lesson.keyframes.push({
+        id: Meteor._newid(),
         time: 0.000,
         animations: []
       });

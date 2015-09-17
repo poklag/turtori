@@ -20,10 +20,10 @@ _app.config([
     });
   }
 ]).run(function(){
-    console.log('Tutori Engine 0.1');
+  console.log('Tutori Engine 0.1');
 
-    // Meteor.subscribe("AvailableUsers");
-    // Meteor.subscribe("Cards");
+  // Meteor.subscribe("AvailableUsers");
+  // Meteor.subscribe("Cards");
 
-    FastClick.attach(window.document.body);
-  });
+  FastClick.attach(window.document.body);
+});

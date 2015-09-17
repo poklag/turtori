@@ -1,10 +1,12 @@
 <div class="editor" ng-controller="Lesson/FrameEditor">
   <hr />
 
-  <div class="frame-editor"></div>
+  <div class="frame-editor">
+    <!-- <div ng-repeat="ani in currentFrame.animations"></div> -->
+  </div>
 
   <div class="keyframes">
-    <div class="keyframe" ng-repeat="kf in lesson.keyframes track by $index" ng-click="select_index($index)" ng-class="{ selected: $index === selected_kf_index}">
+    <div class="keyframe" ng-repeat="kf in lesson.keyframes" ng-click="select_kf(kf.id)" ng-class="{ selected: kf.id === selected_kf_id}">
       {{ $index }}
     </div>
 
@@ -12,6 +14,10 @@
       Add
     </button>
 
-    <button class="btn btn-primary" ng-click="play_from_current_frame()"></button>
+    <button class="btn btn-primary" ng-click="play_from_current_frame()">
+      Play
+    </button>
+
+    <button class="btn btn-danger" ng-click="delete(selected_kf_id)">X</button>
   </div>
 </div>
